@@ -1,5 +1,5 @@
 # ignore dataset folder and trained model
-data/
+data_sample/
 dataset/
 *.h5
 *.pt
