@@ -1,0 +1,14 @@
+# ignore dataset folder and trained model
+data/
+dataset/
+*.h5
+*.pt
+*.pth
+
+# ignore local environment
+venv/
+.env
+
+# ignore file python cache
+__pycache__/
+*.pyc
